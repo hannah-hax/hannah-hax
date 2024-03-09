@@ -1,10 +1,10 @@
 # Hi there!🙂
 
 ## I am a...
-🎓 Student at WGU earning my BS in Cybersecurity and Information Assurance (c/o '25)
+* 🎓 Student earning my BS in Cybersecurity and Information Assurance
 
-🐞 Aspiring bug bounty hunter & penetration tester</center>
+* 🐞 Aspiring bug bounty hunter & penetration tester
 
-🎸 Musician (bass is my main but I also play guitar & drums)</center>
+* 🎸 Musician (bass is my main but I also play guitar & drums)
 
-📖 Life-long learner</center>
+* 📖 Life-long learner
